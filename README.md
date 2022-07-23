@@ -13,7 +13,7 @@ or download ZIP.
 
 
 ## Usage
-- `python3 /path/main.py`
+`$ python3 /path/main.py`
 
 ### In GUI
 The range of the array (and bars) is from 10 to 500.
