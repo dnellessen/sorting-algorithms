@@ -4,7 +4,7 @@
 
 Visualize different sorting algorithms.
 
-<img src="img/demo.gif" width="500"> 
+<img src="img/demo.gif" width="50%"> 
 
 
 ## Installation
